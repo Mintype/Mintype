@@ -8,7 +8,7 @@ I'm a highschool student who is obsessed with everything computer science. After
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on anything.
 - 📫 How to reach me: [Discord](https://discord.gg/HC8wpQCjDu).
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love studying *real life* languages too! Currently learning German. 🇩🇪
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mintype&theme=vue-dark&border_radius=4.4)](https://git.io/streak-stats)
