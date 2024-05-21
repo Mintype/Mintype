@@ -13,6 +13,8 @@ I'm a highschool student who is obsessed with everything computer science. After
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mintype&theme=vue-dark&border_radius=4.4)](https://git.io/streak-stats)
 
+![Mintype's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintype&show_icons=true&theme=vue-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintype&theme=vue-dark&layout=compact)
 <!--
 **Mintype/Mintype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
