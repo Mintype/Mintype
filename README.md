@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a highschool student who is obsessed with everything computer science. After initially learning Java in school, which opened my eyes to the endless possibilities that come with coding, I went deeper into various branches of computer science. I explored game development, web development, app development, and more. Now I also have a programming YouTube channel, where I teach people how to code!
+I'm a highschool student who is obsessed with everything computer science! After initially learning Java in school, which opened my eyes to the endless possibilities that come with coding, I went deeper into various branches of computer science. I explored game development, web development, app development, and more. Now I also have a programming YouTube channel, where I teach people how to code!
 
 - 🔭 I’m currently working on my websites.
 - 🌱 I’m currently learning idk!
